@@ -1,0 +1,1 @@
+LocationFinder is a LBS application. Through this application we can search any location in map. Click anywhere in map and you find the area, nearest city and country. Apart from this, user can edit any location for search and can see the location in map.
